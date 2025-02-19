@@ -1,4 +1,4 @@
-# README: Data Preprocessing for Personalized Model Training
+# Data Preprocessing for Personalized Model Training
 
 ## Overview
 This project focuses on splitting the dataset into training, development (dev), and test subsets to facilitate personalized model training, fine-tuning, and evaluation for individual unique identifiers (`Plate_NUM`). A three-set data split strategy is used to ensure a robust and unbiased evaluation while maintaining sufficient training data for generalization and individual-specific adaptations.
